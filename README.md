@@ -47,3 +47,14 @@ Dataset Source: Kaggle
 # 📂 Dataset
 
 NCR Uber ride dataset downloaded from Kaggle.
+
+## 📸 Dashboard Preview
+
+### Overview Dashboard
+![Overview]("D:\OneDrive\Pictures\Screenshots\Overview.png")
+
+### Time Analysis
+![Time]("D:\OneDrive\Pictures\Screenshots\Time.png")
+
+### Cancellation Analysis
+![Cancellation]("D:\OneDrive\Pictures\Screenshots\Cancellation.png")
