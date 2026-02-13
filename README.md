@@ -57,4 +57,4 @@ NCR Uber ride dataset downloaded from Kaggle.
 ![Time]("Screenshots/Time.png")
 
 ### Cancellation Analysis
-![Cancellation]("D:\kunal_sir_pbi\Cancellation.png")
+![Cancellation]("Screenshots/Cancellation.png")
